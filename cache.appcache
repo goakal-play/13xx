@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# 2026-09-20 v1
+
+CACHE:
+index.html
+jb.html
+jbb6f5.js
+rpc_worker.js
+
+NETWORK:
+*
